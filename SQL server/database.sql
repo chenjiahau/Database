@@ -8,7 +8,7 @@ Create table MarketingSchema.Users(
 	Id int IDENTITY(1,1) PRIMARY KEY,
 	Username nvarchar(50) NOT NULL,
 	Email nvarchar(128) NOT NULL,
-	password nvarchar(50) NOT NULL,
+	Password nvarchar(50) NOT NULL,
 	Active bit NOT NULL default 0,
 	CreatedAt datetime NOT NULL default GETDATE()
 );
