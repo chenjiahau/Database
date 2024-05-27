@@ -1,110 +1,199 @@
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Timber Falls','2023-09-12T03:29:07Z'),
-	 ('Twice Born (Venuto al mondo)','2023-12-15T22:35:16Z'),
-	 ('America''s Most Haunted Inns','2024-03-24T07:44:58Z'),
-	 ('Road to Guantanamo, The','2024-01-30T22:30:04Z'),
-	 ('Mobsters','2024-01-14T08:05:33Z'),
-	 ('Space Battleship Yamato','2024-01-06T16:53:50Z'),
-	 ('Zone Troopers','2023-12-22T20:29:27Z'),
-	 ('Ice Soldiers','2024-04-22T13:23:18Z'),
-	 ('Voyage of the Damned','2024-05-20T10:56:41Z'),
-	 ('Ghoulies III: Ghoulies Go to College','2024-02-12T15:54:22Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('All Things Fair (Lust och fägring stor)','2023-10-10T10:44:44Z'),
-	 ('Creature','2023-07-01T14:44:51Z'),
-	 ('Little Secrets','2023-10-25T17:06:40Z'),
-	 ('Airplane!','2024-04-23T00:26:45Z'),
-	 ('Lovely & Amazing','2024-04-08T05:34:45Z'),
-	 ('Going the Distance','2023-08-25T17:44:07Z'),
-	 ('White Lightning','2023-11-15T03:32:59Z'),
-	 ('Fara','2023-12-10T07:38:12Z'),
-	 ('Walking With Dinosaurs','2023-06-30T20:53:37Z'),
-	 ('9500 Liberty','2023-10-29T02:55:25Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Strip Search','2023-10-01T02:30:54Z'),
-	 ('City of Violence, The (Jjakpae)','2024-02-07T20:34:00Z'),
-	 ('Godsend','2024-05-15T01:10:50Z'),
-	 ('Nine Deaths of the Ninja','2023-11-30T15:44:40Z'),
-	 ('Smiley','2023-09-14T13:36:31Z'),
-	 ('Not Reconciled (Nicht versöhnt oder Es hilft nur Gewalt wo Gewalt herrscht)','2023-09-15T02:46:39Z'),
-	 ('Spaghetti West, The','2023-11-21T19:35:03Z'),
-	 ('Outbound (Periferic)','2023-10-18T10:40:41Z'),
-	 ('Reagan','2023-09-09T09:03:30Z'),
-	 ('The Seventh Sin','2024-01-15T14:54:35Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Comin'' at Ya!','2023-06-08T07:05:39Z'),
-	 ('London','2023-10-05T07:32:54Z'),
-	 ('That Certain Woman','2024-05-06T12:39:48Z'),
-	 ('Pray the Devil Back to Hell','2024-01-31T11:00:35Z'),
-	 ('If Looks Could Kill','2023-09-02T21:41:43Z'),
-	 ('Reconstruction (Anaparastasi)','2023-10-17T12:02:35Z'),
-	 ('Blood Feast','2023-12-10T02:29:36Z'),
-	 ('Fast Runner, The (Atanarjuat)','2024-02-15T05:22:00Z'),
-	 ('Ten Minutes Older: The Cello','2023-11-26T07:35:53Z'),
-	 ('Bad News Bears in Breaking Training, The','2023-09-09T13:41:18Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Romasanta: The Werewolf Hunt','2024-04-07T05:07:27Z'),
-	 ('Bedlam','2023-09-29T23:40:34Z'),
-	 ('Godzilla vs. Mechagodzilla (Gojira tai Mekagojira)','2023-10-12T22:19:05Z'),
-	 ('Dream Demon','2023-12-22T04:06:11Z'),
-	 ('Facing Ali','2024-05-20T02:59:33Z'),
-	 ('Marley','2024-03-18T06:11:49Z'),
-	 ('Tom & Thomas','2023-10-14T22:17:38Z'),
-	 ('Psycho','2024-02-11T11:38:03Z'),
-	 ('Cottage Country','2023-07-11T14:43:56Z'),
-	 ('Heatstroke','2024-04-24T13:01:33Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Ziggy Stardust and the Spiders from Mars','2024-03-29T19:08:28Z'),
-	 ('Next Best Thing, The','2023-09-03T01:08:44Z'),
-	 ('Little Big Soldier (Da bing xiao jiang)','2023-09-24T20:48:41Z'),
-	 ('Mum & Dad','2023-10-02T15:26:30Z'),
-	 ('Full Metal Jacket','2024-03-15T10:51:18Z'),
-	 ('New Kind of Love, A','2024-03-19T19:24:27Z'),
-	 ('Endless Summer 2, The','2023-07-29T01:59:48Z'),
-	 ('Undocumented','2023-08-26T07:35:01Z'),
-	 ('Graduation Day','2024-01-28T13:16:46Z'),
-	 ('Take Me Home Tonight','2023-08-10T19:19:18Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Gone Fishin''','2023-06-03T02:05:54Z'),
-	 ('Fancy Pants','2024-04-05T20:13:26Z'),
-	 ('Trap, The (Klopka)','2024-05-20T20:38:29Z'),
-	 ('Lost in Translation','2023-06-30T12:24:56Z'),
-	 ('Zulu Dawn','2023-12-26T02:48:30Z'),
-	 ('Planet 51','2024-02-26T13:23:12Z'),
-	 ('Jack-O','2023-11-27T14:31:02Z'),
-	 ('Amistad','2024-03-03T07:30:15Z'),
-	 ('El tren de la memoria','2023-07-25T07:14:44Z'),
-	 ('Edvard Munch','2023-06-21T23:23:06Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Rockabilly Vampire','2024-02-11T22:58:06Z'),
-	 ('Hearts of Darkness: A Filmmakers Apocalypse','2023-06-15T16:23:41Z'),
-	 ('El asombroso mundo de Borjamari y Pocholo','2024-02-29T23:53:09Z'),
-	 ('Tattooed Life (Irezumi ichidai)','2024-03-18T02:41:13Z'),
-	 ('Patriot Games','2023-06-21T12:11:50Z'),
-	 ('Hotel Transylvania','2023-12-15T12:26:29Z'),
-	 ('Strip Search','2023-11-22T05:05:34Z'),
-	 ('Attack of the 5 Ft. 2 Women (National Lampoon''s Attack of the 5 Ft 2 Woman)','2023-06-23T23:50:29Z'),
-	 ('Hijack That Went South, The (Kaappari)','2023-09-20T14:54:18Z'),
-	 ('I Capture the Castle','2023-09-13T22:43:35Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('King of Germany','2023-08-23T10:59:32Z'),
-	 ('Tora-san''s Rise and Fall (Otoko wa tsurai yo: Torajiro aiaigasa)','2024-02-07T08:42:01Z'),
-	 ('12 Dates of Christmas','2023-11-26T06:19:25Z'),
-	 ('Storm Warning','2023-06-08T19:12:30Z'),
-	 ('Green Tea (Lü cha)','2023-11-21T06:41:55Z'),
-	 ('Broken Bridges','2023-07-10T20:03:35Z'),
-	 ('Good Earth, The','2024-03-15T06:13:46Z'),
-	 ('Fight for Your Right Revisited','2023-10-05T01:50:12Z'),
-	 ('3 Sailors and a Girl (Three Sailors and a Girl)','2024-01-01T09:33:20Z'),
-	 ('Recipes for Disaster','2023-11-10T16:38:29Z');
-INSERT INTO public.movies (movie,created_at) VALUES
-	 ('Victory (a.k.a. Escape to Victory)','2023-11-27T03:51:53Z'),
-	 ('Tropical Fish (Re dai yu)','2024-04-16T18:56:30Z'),
-	 ('Jo Jo Dancer, Your Life is Calling','2024-01-18T01:46:53Z'),
-	 ('Rise','2024-02-26T06:59:24Z'),
-	 ('Garage Days','2023-10-04T07:27:42Z'),
-	 ('Lady Death','2023-12-16T01:37:44Z'),
-	 ('Vertical Ray of the Sun, The (Mua he chieu thang dung)','2023-11-15T09:23:43Z'),
-	 ('Collateral','2023-12-19T10:22:27Z'),
-	 ('Love Life','2023-09-19T16:47:15Z'),
-	 ('The War','2024-01-22T06:17:07Z');
+insert into movies (movie, created_at) values ('Go West', '07/27/2010');
+
+insert into movies (movie, created_at) values ('Hexed', '02/21/2004');
+
+insert into movies (movie, created_at) values ('21 Jump Street', '06/25/2021');
+
+insert into movies (movie, created_at) values ('Blame it on Fidel! (La faute à Fidel!)', '05/27/2019');
+
+insert into movies (movie, created_at) values ('Manufactured Landscapes', '01/27/2011');
+
+insert into movies (movie, created_at) values ('Non-Stop', '10/08/2012');
+
+insert into movies (movie, created_at) values ('Talent Given Us, The', '07/03/2021');
+
+insert into movies (movie, created_at) values ('To Rome with Love', '03/06/2010');
+
+insert into movies (movie, created_at) values ('King Kong', '12/10/2002');
+
+insert into movies (movie, created_at) values ('Now You Know', '03/21/2005');
+
+insert into movies (movie, created_at) values ('100 Years at the Movies', '09/10/2022');
+
+insert into movies (movie, created_at) values ('Harder They Come, The', '09/28/2007');
+
+insert into movies (movie, created_at) values ('Gemini (Sôseiji)', '02/01/2016');
+
+insert into movies (movie, created_at) values ('Friday the 13th', '02/05/2021');
+
+insert into movies (movie, created_at) values ('Forever Young', '12/09/2003');
+
+insert into movies (movie, created_at) values ('Revenge', '10/04/2010');
+
+insert into movies (movie, created_at) values ('Child, The (L''enfant)', '10/18/2010');
+
+insert into movies (movie, created_at) values ('Jerry Springer: Ringmaster', '10/27/2019');
+
+insert into movies (movie, created_at) values ('Wild Women', '01/15/2018');
+
+insert into movies (movie, created_at) values ('Mr. Jealousy', '11/14/2021');
+
+insert into movies (movie, created_at) values ('Dunston Checks In', '09/15/2008');
+
+insert into movies (movie, created_at) values ('12 Storeys (Shier lou)', '10/29/2016');
+
+insert into movies (movie, created_at) values ('Let No Man Write My Epitaph', '05/19/2023');
+
+insert into movies (movie, created_at) values ('Grass Harp, The', '12/05/2006');
+
+insert into movies (movie, created_at) values ('Secrets of Jonathan Sperry, The', '01/05/2020');
+
+insert into movies (movie, created_at) values ('Wind Across the Everglades', '01/22/2020');
+
+insert into movies (movie, created_at) values ('Killer Is Loose, The', '04/02/2018');
+
+insert into movies (movie, created_at) values ('Ajami', '04/01/2019');
+
+insert into movies (movie, created_at) values ('What About Dick?', '12/29/2011');
+
+insert into movies (movie, created_at) values ('Iron Eagle IV', '05/12/2001');
+
+insert into movies (movie, created_at) values ('Double Suicide (Shinjû: Ten no amijima)', '11/05/2005');
+
+insert into movies (movie, created_at) values ('Return to Sender', '01/30/2008');
+
+insert into movies (movie, created_at) values ('Ringer, The', '03/29/2015');
+
+insert into movies (movie, created_at) values ('Special 26', '04/01/2013');
+
+insert into movies (movie, created_at) values ('Girl on a Motorcycle, The', '09/02/2022');
+
+insert into movies (movie, created_at) values ('Terminator 2: Judgment Day', '09/21/2006');
+
+insert into movies (movie, created_at) values ('Camelot', '12/21/2021');
+
+insert into movies (movie, created_at) values ('Reluctant Dragon, The', '02/22/2006');
+
+insert into movies (movie, created_at) values ('Penguin Pool Murder', '06/26/2000');
+
+insert into movies (movie, created_at) values ('Diana', '11/25/2005');
+
+insert into movies (movie, created_at) values ('Into the Mind', '11/09/2023');
+
+insert into movies (movie, created_at) values ('Hysteria: The Def Leppard Story', '05/22/2018');
+
+insert into movies (movie, created_at) values ('A Flintstones Christmas Carol', '04/05/2014');
+
+insert into movies (movie, created_at) values ('King Lear', '06/28/2000');
+
+insert into movies (movie, created_at) values ('Forest of Bliss', '07/11/2015');
+
+insert into movies (movie, created_at) values ('Around the World Under the Sea', '10/07/2010');
+
+insert into movies (movie, created_at) values ('Crocodile Dundee II', '07/23/2021');
+
+insert into movies (movie, created_at) values ('Ghost and Mrs. Muir, The', '01/02/2007');
+
+insert into movies (movie, created_at) values ('Babe', '01/08/2004');
+
+insert into movies (movie, created_at) values ('Joshua', '05/25/2000');
+
+insert into movies (movie, created_at) values ('Bright Victory', '08/16/2008');
+
+insert into movies (movie, created_at) values ('Under Our Skin', '07/26/2019');
+
+insert into movies (movie, created_at) values ('Law Abiding Citizen', '02/11/2015');
+
+insert into movies (movie, created_at) values ('Rob the Mob', '12/27/2003');
+
+insert into movies (movie, created_at) values ('Every Night Dreams (Each Night I Dream) (Yogoto no yume)', '09/17/2001');
+
+insert into movies (movie, created_at) values ('Stockholm Stories', '06/12/2012');
+
+insert into movies (movie, created_at) values ('Wild About Harry', '06/02/2002');
+
+insert into movies (movie, created_at) values ('Empire of the Sun', '01/28/2010');
+
+insert into movies (movie, created_at) values ('Two Moon Junction', '05/19/2003');
+
+insert into movies (movie, created_at) values ('Life On A String (Bian chang Bian Zou)', '06/19/2021');
+
+insert into movies (movie, created_at) values ('Three Wise Fools', '10/06/2008');
+
+insert into movies (movie, created_at) values ('Starter for 10', '02/14/2010');
+
+insert into movies (movie, created_at) values ('Grace Is Gone', '09/19/2006');
+
+insert into movies (movie, created_at) values ('BlinkyTM', '02/20/2008');
+
+insert into movies (movie, created_at) values ('Virtual JFK: Vietnam If Kennedy Had Lived', '05/12/2016');
+
+insert into movies (movie, created_at) values ('Rigor Mortis (Geung si)', '05/09/2021');
+
+insert into movies (movie, created_at) values ('White Palms (Fehér tenyér)', '02/12/2003');
+
+insert into movies (movie, created_at) values ('Restless Blood (Levoton veri)', '04/12/2020');
+
+insert into movies (movie, created_at) values ('My Last Five Girlfriends', '06/10/2013');
+
+insert into movies (movie, created_at) values ('Paternity', '10/11/2009');
+
+insert into movies (movie, created_at) values ('Rhapsody in August (Hachi-gatsu no kyôshikyoku)', '04/27/2008');
+
+insert into movies (movie, created_at) values ('July Rhapsody (Laam yan sei sap)', '03/09/2017');
+
+insert into movies (movie, created_at) values ('Desperadoes, The', '03/09/2001');
+
+insert into movies (movie, created_at) values ('Blue Steel', '01/15/2022');
+
+insert into movies (movie, created_at) values ('Chuck Berry Hail! Hail! Rock ''n'' Roll', '03/23/2016');
+
+insert into movies (movie, created_at) values ('Stewart Lee: If You Prefer a Milder Comedian, Please Ask for One', '10/15/2008');
+
+insert into movies (movie, created_at) values ('Celestial Wives of the Meadow Mari (Nebesnye zheny lugovykh mari)', '07/07/2017');
+
+insert into movies (movie, created_at) values ('Romantics, The', '07/01/2019');
+
+insert into movies (movie, created_at) values ('You Are God (Jestes Bogiem)', '08/02/2014');
+
+insert into movies (movie, created_at) values ('Hocus Pocus', '08/08/2010');
+
+insert into movies (movie, created_at) values ('Springfield Rifle', '03/29/2000');
+
+insert into movies (movie, created_at) values ('Secret Garden, The', '07/07/2002');
+
+insert into movies (movie, created_at) values ('Mighty Joe Young', '02/20/2023');
+
+insert into movies (movie, created_at) values ('12:08 East of Bucharest (A fost sau n-a fost?)', '10/07/2019');
+
+insert into movies (movie, created_at) values ('It''s My Mother''s Birthday Today', '11/18/2009');
+
+insert into movies (movie, created_at) values ('Where Do We Go Now?', '03/22/2022');
+
+insert into movies (movie, created_at) values ('Day of the Wacko (Dzien swira)', '04/25/2002');
+
+insert into movies (movie, created_at) values ('Deciduous Tree (Tree Without Leaves) (Rakuyôju)', '08/28/2010');
+
+insert into movies (movie, created_at) values ('Buchanan Rides Alone', '10/19/2009');
+
+insert into movies (movie, created_at) values ('They Call Me Trinity', '06/13/2010');
+
+insert into movies (movie, created_at) values ('Madeleine', '02/28/2018');
+
+insert into movies (movie, created_at) values ('Prison Terminal: The Last Days of Private Jack Hall', '11/07/2013');
+
+insert into movies (movie, created_at) values ('Species', '12/15/2004');
+
+insert into movies (movie, created_at) values ('MVP: Most Valuable Primate', '04/07/2015');
+
+insert into movies (movie, created_at) values ('Blondie on a Budget', '04/05/2006');
+
+insert into movies (movie, created_at) values ('33 Postcards', '12/20/2008');
+
+insert into movies (movie, created_at) values ('Semper Fi', '08/12/2006');
+
+insert into movies (movie, created_at) values ('Lost World: Jurassic Park, The', '09/18/2013');
+
+insert into movies (movie, created_at) values ('Goodbye, Columbus', '04/05/2009');
+
+insert into movies (movie, created_at) values ('Remonstrance', '09/08/2017');

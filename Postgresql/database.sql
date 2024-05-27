@@ -28,6 +28,5 @@ CREATE TABLE public.movie_purchases (
 	id SERIAL PRIMARY KEY,
 	movie_id int REFERENCES movies(id),
 	customer_id int REFERENCES customers(id),
-	area varchar(50) NULL,
 	created_at timestamp NOT NULL
 );

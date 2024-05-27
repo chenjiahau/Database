@@ -1,110 +1,125 @@
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (34,829957.37,'Czech Republic'),
-	 (74,838679.05,'China'),
-	 (13,124429.31,'France'),
-	 (72,65532.99,'Indonesia'),
-	 (67,811990.07,'Netherlands'),
-	 (2,258397.61,'Brazil'),
-	 (75,749630.75,'Portugal'),
-	 (100,96467.85,'Indonesia'),
-	 (28,475567.94,'South Korea'),
-	 (45,364629.81,'China');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (72,710971.77,'Canada'),
-	 (96,913932.74,'China'),
-	 (10,893502.42,'Finland'),
-	 (1,166494.98,'China'),
-	 (97,373037.09,'Canada'),
-	 (79,962250.93,'South Korea'),
-	 (57,931862.19,'Tanzania'),
-	 (33,156.51,'Estonia'),
-	 (22,942902.04,'Albania'),
-	 (85,717983.16,'Brazil');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (99,255048.07,'Poland'),
-	 (57,762520.40,'China'),
-	 (98,63143.39,'Mexico'),
-	 (44,824190.70,'United States'),
-	 (97,449007.68,'Philippines'),
-	 (46,506544.66,'China'),
-	 (22,873821.31,'Nigeria'),
-	 (67,834109.61,'Norway'),
-	 (81,28332.41,'Tunisia'),
-	 (84,782722.94,'China');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (43,761414.63,'Malaysia'),
-	 (36,448012.95,'China'),
-	 (27,353363.52,'Indonesia'),
-	 (39,14038.41,'Uzbekistan'),
-	 (9,907873.14,'Estonia'),
-	 (82,625706.97,'Indonesia'),
-	 (18,394030.49,'China'),
-	 (13,690657.57,'China'),
-	 (54,621331.21,'Portugal'),
-	 (55,717929.22,'France');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (92,871173.92,'China'),
-	 (19,643771.93,'Philippines'),
-	 (3,348546.06,'Palestinian Territory'),
-	 (12,818690.04,'Colombia'),
-	 (54,8547.12,'France'),
-	 (84,188135.54,'China'),
-	 (29,637291.21,'Angola'),
-	 (22,284128.85,'China'),
-	 (20,619155.58,'Colombia'),
-	 (96,59355.41,'Trinidad and Tobago');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (10,592658.63,'Indonesia'),
-	 (83,551395.38,'Argentina'),
-	 (29,47832.38,'Equatorial Guinea'),
-	 (31,390427.24,'Philippines'),
-	 (16,726315.61,'Philippines'),
-	 (90,216389.01,'France'),
-	 (39,479005.02,'Colombia'),
-	 (13,223838.11,'Indonesia'),
-	 (90,42710.57,'China'),
-	 (14,887118.78,'Mauritius');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (85,151699.56,'China'),
-	 (99,376046.18,'China'),
-	 (42,460592.25,'Belarus'),
-	 (67,317857.19,'Palestinian Territory'),
-	 (8,208403.41,'Portugal'),
-	 (100,617759.14,'China'),
-	 (74,901943.11,'China'),
-	 (3,778259.31,'Indonesia'),
-	 (74,409228.88,'China'),
-	 (20,223891.07,'China');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (6,835932.92,'Egypt'),
-	 (42,822469.98,'China'),
-	 (60,394218.89,'Philippines'),
-	 (59,250765.79,'China'),
-	 (14,758947.51,'Russia'),
-	 (62,412269.29,'Portugal'),
-	 (65,764434.24,'Philippines'),
-	 (18,426589.66,'China'),
-	 (53,135519.00,'Indonesia'),
-	 (79,265189.59,'Poland');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (42,86030.58,'Macedonia'),
-	 (24,933920.80,'Malaysia'),
-	 (46,133782.24,'Japan'),
-	 (90,192127.47,'Vietnam'),
-	 (6,395605.33,'Indonesia'),
-	 (99,91756.28,'Indonesia'),
-	 (96,810967.69,'Indonesia'),
-	 (46,660015.24,'Tajikistan'),
-	 (80,846492.21,'Austria'),
-	 (74,711513.84,'Tunisia');
-INSERT INTO public.movie_profits (movie_id,profit,area) VALUES
-	 (4,980864.03,'Philippines'),
-	 (55,137725.29,'Indonesia'),
-	 (86,219432.39,'Jamaica'),
-	 (37,597767.48,'Poland'),
-	 (17,252217.04,'Russia'),
-	 (22,160082.07,'China'),
-	 (70,810149.86,'Portugal'),
-	 (85,505813.40,'Kenya'),
-	 (92,361111.18,'China'),
-	 (75,75033.11,'Indonesia');
+insert into movie_profits (movie_id, profit, created_at) values (58, 2558055, '09/18/2022');
+
+insert into movie_profits (movie_id, profit, created_at) values (20, 1315884, '01/17/2014');
+
+insert into movie_profits (movie_id, profit, created_at) values (65, 5286477, '10/18/2002');
+
+insert into movie_profits (movie_id, profit, created_at) values (27, 436269, '12/18/2022');
+
+insert into movie_profits (movie_id, profit, created_at) values (42, 5872600, '12/15/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (18, 7080004, '09/22/2006');
+
+insert into movie_profits (movie_id, profit, created_at) values (95, 4124713, '01/12/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (13, 281027, '05/02/2022');
+
+insert into movie_profits (movie_id, profit, created_at) values (8, 8071840, '04/16/2023');
+
+insert into movie_profits (movie_id, profit, created_at) values (89, 6111704, '05/16/2008');
+
+insert into movie_profits (movie_id, profit, created_at) values (67, 4651979, '12/23/2012');
+
+insert into movie_profits (movie_id, profit, created_at) values (100, 5432142, '09/16/2012');
+
+insert into movie_profits (movie_id, profit, created_at) values (22, 6850386, '05/30/2023');
+
+insert into movie_profits (movie_id, profit, created_at) values (83, 6153763, '04/17/2006');
+
+insert into movie_profits (movie_id, profit, created_at) values (34, 3117556, '02/23/2002');
+
+insert into movie_profits (movie_id, profit, created_at) values (51, 7329617, '12/20/2002');
+
+insert into movie_profits (movie_id, profit, created_at) values (52, 3304824, '10/23/2001');
+
+insert into movie_profits (movie_id, profit, created_at) values (97, 8101899, '12/23/2009');
+
+insert into movie_profits (movie_id, profit, created_at) values (96, 9268838, '12/25/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (46, 2401023, '12/15/2022');
+
+insert into movie_profits (movie_id, profit, created_at) values (98, 1830654, '07/16/2007');
+
+insert into movie_profits (movie_id, profit, created_at) values (10, 8208515, '02/19/2019');
+
+insert into movie_profits (movie_id, profit, created_at) values (24, 3012913, '07/13/2009');
+
+insert into movie_profits (movie_id, profit, created_at) values (81, 5885864, '02/26/2012');
+
+insert into movie_profits (movie_id, profit, created_at) values (80, 9906495, '06/26/2003');
+
+insert into movie_profits (movie_id, profit, created_at) values (38, 9890438, '05/03/2006');
+
+insert into movie_profits (movie_id, profit, created_at) values (78, 4812949, '01/21/2013');
+
+insert into movie_profits (movie_id, profit, created_at) values (69, 8564068, '12/06/2014');
+
+insert into movie_profits (movie_id, profit, created_at) values (12, 4412706, '11/23/2019');
+
+insert into movie_profits (movie_id, profit, created_at) values (4, 4626074, '01/15/2005');
+
+insert into movie_profits (movie_id, profit, created_at) values (86, 8920235, '09/11/2019');
+
+insert into movie_profits (movie_id, profit, created_at) values (72, 1491123, '09/22/2015');
+
+insert into movie_profits (movie_id, profit, created_at) values (26, 5578428, '02/25/2015');
+
+insert into movie_profits (movie_id, profit, created_at) values (41, 3560719, '01/28/2023');
+
+insert into movie_profits (movie_id, profit, created_at) values (14, 6028601, '06/04/2018');
+
+insert into movie_profits (movie_id, profit, created_at) values (85, 4015299, '10/27/2019');
+
+insert into movie_profits (movie_id, profit, created_at) values (63, 6147624, '09/30/2016');
+
+insert into movie_profits (movie_id, profit, created_at) values (79, 2970106, '07/17/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (73, 1155068, '05/19/2010');
+
+insert into movie_profits (movie_id, profit, created_at) values (57, 4952357, '05/03/2016');
+
+insert into movie_profits (movie_id, profit, created_at) values (39, 9216301, '12/08/2001');
+
+insert into movie_profits (movie_id, profit, created_at) values (5, 2929568, '08/21/2016');
+
+insert into movie_profits (movie_id, profit, created_at) values (1, 4326503, '12/06/2006');
+
+insert into movie_profits (movie_id, profit, created_at) values (77, 2910418, '07/05/2004');
+
+insert into movie_profits (movie_id, profit, created_at) values (68, 8672794, '07/13/2007');
+
+insert into movie_profits (movie_id, profit, created_at) values (93, 3604766, '02/21/2012');
+
+insert into movie_profits (movie_id, profit, created_at) values (94, 2534461, '01/04/2001');
+
+insert into movie_profits (movie_id, profit, created_at) values (9, 2795534, '06/21/2001');
+
+insert into movie_profits (movie_id, profit, created_at) values (28, 3152299, '08/02/2018');
+
+insert into movie_profits (movie_id, profit, created_at) values (59, 7174851, '07/12/2012');
+
+insert into movie_profits (movie_id, profit, created_at) values (76, 9442133, '03/16/2014');
+
+insert into movie_profits (movie_id, profit, created_at) values (84, 8539698, '11/29/2023');
+
+insert into movie_profits (movie_id, profit, created_at) values (56, 7957289, '12/19/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (61, 5355604, '11/13/2016');
+
+insert into movie_profits (movie_id, profit, created_at) values (16, 9506195, '06/08/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (33, 4578555, '05/01/2010');
+
+insert into movie_profits (movie_id, profit, created_at) values (7, 2132023, '05/03/2019');
+
+insert into movie_profits (movie_id, profit, created_at) values (50, 7865550, '06/19/2023');
+
+insert into movie_profits (movie_id, profit, created_at) values (25, 8743186, '01/03/2006');
+
+insert into movie_profits (movie_id, profit, created_at) values (66, 7127652, '09/06/2001');
+
+insert into movie_profits (movie_id, profit, created_at) values (19, 4871286, '02/28/2011');
+
+insert into movie_profits (movie_id, profit, created_at) values (47, 9196802, '05/14/2005');
+
+insert into movie_profits (movie_id, profit, created_at) values (17, 169256, '01/02/2017');
